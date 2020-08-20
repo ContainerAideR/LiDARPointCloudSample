@@ -1,5 +1,5 @@
 # LiDARPointCloudSample
-![alt text](https://github.com/adam-p/markdown-here/raw/master/Content/Developers/btowner/Documentation/VisualizeOG.png "Oil and Gas Proof of Concept")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/Content/Developers/VisualizeOG.png "Oil and Gas Proof of Concept")
 
 Developed with Unreal Engine 4.24
 
